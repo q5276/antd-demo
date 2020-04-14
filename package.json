@@ -1,4 +1,5 @@
 {
+  "name": "antd-demo",
   "private": true,
   "scripts": {
     "start": "umi dev",
@@ -8,6 +9,7 @@
     "test": "umi-test",
     "test:coverage": "umi-test --coverage"
   },
+  "homepage": "https://github.com/q5276/antd-demo",
   "gitHooks": {
     "pre-commit": "lint-staged"
   },
