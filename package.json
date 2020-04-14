@@ -9,7 +9,7 @@
     "test": "umi-test",
     "test:coverage": "umi-test --coverage"
   },
-  "homepage": "https://github.com/q5276/antd-demo",
+  "homepage": "https://q5276.github.io//antd-demo",
   "gitHooks": {
     "pre-commit": "lint-staged"
   },
